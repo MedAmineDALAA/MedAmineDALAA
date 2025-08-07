@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img align="right" height="92" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmVycXNldTc5OXlnZHozbHJxMjV3MDZtNXh6N3prZnN4eHMya2ptZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
+
 <h1 align="center">Hey 👋What's Up? Welcome to my profile 🤖</h1>
 
 ###
@@ -27,12 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="108" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmVycXNldTc5OXlnZHozbHJxMjV3MDZtNXh6N3prZnN4eHMya2ptZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
